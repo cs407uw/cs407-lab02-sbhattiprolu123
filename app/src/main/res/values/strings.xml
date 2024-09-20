@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="button_demo">Button Demo</string>
+    <string name="submit">Submit</string>
+    <string name="myTextField"> myTextField</string>
+    <string name="enter_text_here"> Enter Text Here</string>
+<!--   <string name="resultTextView">resultTextView</string>-->
+
+</resources>
